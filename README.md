@@ -40,9 +40,10 @@ It checks 20 consecutive frames and if the Eye Aspect ratio is less than 0.25, A
 ### Execution 🐉
 To run the code, type `python detect_drowsiness.py`
 
-'''
+```
 python detect_drowsiness.py
-'''
+
+```
 
 ## License
 
